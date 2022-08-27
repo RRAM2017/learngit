@@ -1,2 +1,3 @@
 Git  is a distributed version control system.
-Git is free software.
+Git is free software under the GPL.
+Learning git is in 27,8,2022.
